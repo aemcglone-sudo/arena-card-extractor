@@ -1,0 +1,5 @@
+.env
+card_names*.txt
+card_names*.csv
+__pycache__/
+*.pyc
